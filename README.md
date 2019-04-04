@@ -27,4 +27,4 @@ git clone https://github.com/MahShaaban/phyloana
 
 ### 1. [Merging two `.meg` files](https://github.com/MahShaaban/phyloana/issues/1)
 
-This issue merges to alignment files in the `data/*.meg`. The ouput is one `.meg` file in `output/merge.meg`
+This issue merges to alignment files in the `data/aligned_seq/*.meg`. The ouput is one `.meg` file in `output/merge.meg`
