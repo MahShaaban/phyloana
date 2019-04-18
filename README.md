@@ -27,4 +27,8 @@ git clone https://github.com/MahShaaban/phyloana
 
 ### 1. [Merging two `.meg` files](https://github.com/MahShaaban/phyloana/issues/1)
 
-This issue merges to alignment files in the `data/aligned_seq/*.meg`. The ouput is one `.meg` file in `output/merge.meg`
+This issue merges to alignment files in the `data/aligned_seq/*.meg`. The ouput is one `.meg` file in `output/merge.meg`.
+
+### 2. [Running CANU example assembly of ecoli](https://github.com/MahShaaban/phyloana/issues/2)
+
+This issue runs an example of using CANU to assemble an ecoli genome in `output/ecoli_pacbio` from filtered read files `data/fastq/ecoli_p6_25x.filtered.fastq`.
